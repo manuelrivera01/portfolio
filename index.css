@@ -81,3 +81,14 @@ scroll-margin-top: 100px;
   .card-zoom:hover .card-zoom-text {
     @apply scale-100;
   }
+
+
+.imgcard
+{
+    box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.1);;
+}
+
+.imgcard:hover
+{
+    box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.3);;
+}
